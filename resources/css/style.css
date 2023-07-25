@@ -648,6 +648,21 @@ footer p {
     margin-top: 20px;
 }
 
+@media (max-width: 900px) {
+    footer {
+        padding: 40px;
+        font-size: 50%;
+    }
+
+    .footer-nav li,
+.social-links li {
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 6px;
+}
+
+  }
+
 /*---------------------------------------------*/
 /*ANIMACIONES*/
 /*---------------------------------------------*/
